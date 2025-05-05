@@ -1,0 +1,29 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.upload-section {
+  margin: 20px 0;
+}
+
+.result-section {
+  margin-top: 30px;
+}
+
+#imagePreview img {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.hidden {
+  display: none;
+}
+
+#prediction {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
